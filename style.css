@@ -41,13 +41,14 @@ body{
 
 #topwrap{
 	width: 1200px;
+	height: 262px;
 	overflow: hidden;
 }
 	
 #short_bio{
 	width: 600px;
+	height: 262px;
 	float: left;
-	border-bottom: 5px solid #9C9C68;
 	background: -webkit-linear-gradient(left, #99FFFF, #E6E6E6);
 }
 
@@ -65,7 +66,6 @@ body{
 	width: 600px;
 	height: 262px;
 	float: left;
-	border-bottom: 5px solid #9C9C68;
 	background: -webkit-linear-gradient(left, #99FFFF, #E6E6E6);
 }
 #profilepic #picture{
@@ -85,14 +85,14 @@ body{
 
 #leftwrap{
 	width: 400px;
-	border-bottom: 5px solid #9C9C68;
+	height: 497px;
 	float: left;
 	background: -webkit-linear-gradient(left, #99FFFF, #E6E6E6);
 }
 
 #leftwrap #bio{
 	width: 400px;
-	border-bottom: 5px solid #9C9C68;
+	height: 256px;
 	background: -webkit-linear-gradient(left, #99FFFF, #E6E6E6);
 }
 #leftwrap #bio h3{
@@ -116,6 +116,7 @@ body{
 
 #leftwrap #Skill_Interests{
 	width: 400px;
+	height: 236px;
 	background: -webkit-linear-gradient(left, #99FFFF, #E6E6E6);
 }
 
@@ -142,7 +143,6 @@ body{
 #Rightwrap{
 	width: 800px;
 	height: 497px;
-	border-bottom: 5px solid #9C9C68;
 	float: left;
 	background: -webkit-linear-gradient(left, #99FFFF, #E6E6E6);
 }
@@ -174,11 +174,9 @@ body{
 	color: #ffa64d;
 }
 #Rightwrap #hobby{
-	border-top: 5px solid #9C9C68;
 	width: 800px;
 	height: 192px;
 	background: -webkit-linear-gradient(left, #99FFFF, #E6E6E6);
-	border-bottom: 5px solid #9C9C68;
 	
 }
 #Rightwrap #hobby h2{
@@ -208,9 +206,9 @@ body{
 
 #mychannel{
 	width: 1200px;
+	height: 178px;
 	overflow: hidden;
 	border-radius: 0px 0px 10px 10px;
-	border-bottom: 5px solid #9C9C68;
 	background: -webkit-linear-gradient(left, #99FFFF, #E6E6E6);
 }
 #mychannel p{
@@ -229,7 +227,7 @@ body{
 }	
 #mychannel ul li{
 	float: left;
-	padding-left: 40px;
+	padding-left: 12px;
 	background: -webkit-linear-gradient(left, #99FFFF, #E6E6E6);
 }
 
@@ -242,9 +240,9 @@ body{
 
 #social_media{
 	width: 1200px;
+	height: 71px;
 	overflow: hidden;
 	border-radius: 0px 0px 10px 10px;
-	border-bottom: 5px solid #9C9C68;
 	background: -webkit-linear-gradient(left, #99FFFF, #E6E6E6);
 }
 #social_media h3{

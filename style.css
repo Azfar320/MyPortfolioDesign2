@@ -62,11 +62,10 @@ body{
 }
 
 #profilepic{
-	width: 598px;
+	width: 600px;
 	height: 262px;
 	float: left;
 	border-bottom: 5px solid #9C9C68;
-	border-left: 2px solid #4d4dff;
 	background: -webkit-linear-gradient(left, #99FFFF, #E6E6E6);
 }
 #profilepic #picture{
@@ -141,10 +140,9 @@ body{
 	background: -webkit-linear-gradient(left, #99FFFF, #E6E6E6);
 }
 #Rightwrap{
-	width: 798px;
+	width: 800px;
 	height: 497px;
 	border-bottom: 5px solid #9C9C68;
-	border-left: 2px solid #4d4dff;
 	float: left;
 	background: -webkit-linear-gradient(left, #99FFFF, #E6E6E6);
 }
